@@ -1,0 +1,8 @@
+{ 
+  "sammy" : {
+    "username"  : "SammyShark",
+    "location"  : "Indian Ocean",
+    "online"    : true,
+    "followers" : 987
+  }
+  }
